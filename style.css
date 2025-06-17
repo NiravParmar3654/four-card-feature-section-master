@@ -92,7 +92,7 @@ body::-webkit-scrollbar{
 .main .card{    
     --padding-tb: 1.8rem;
     --padding-lr: 2rem;
-    height: 38vh;
+    height: 35vh;
     width: 100%;
     background-color: var(--clr-natural-300);
     border-radius: 7px;
